@@ -130,3 +130,6 @@ res
 
 # Result
 Thus, in the Data cleaning process, we have read the csv file and got the information from it, identified and removed the null values (changed the null values with some default values). Then, we have identified and removed the outliers using the IQR method and the ZScore method using the libraries Pandas, Numpy, Seaborn and Scipy and saved the cleaned data to the file.
+
+### Name : ASWIN B
+### Register Number : 212224110007
